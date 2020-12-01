@@ -8,5 +8,5 @@ public interface XMLData {
    public void loadXml(File input) throws Exception;
    
    /** returns the price of an item (cd, book, or list) */
-   public Optional<Double> getPrice(String item);
+   public Optional<Double> getPrice(String item) throws Exception;
 }

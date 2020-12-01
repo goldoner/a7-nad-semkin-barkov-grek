@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11453312-3d0b-4acf-ad7a-62cac73f23f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a7-nad-grek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Grek/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Grek/Cd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Grek/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Grek/MyXMLData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Grek/Ware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Grek/WareList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assignment7_int/XMLData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assignment7_int/XMLData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ksnTdbyBs7yzPvhxQWrgO5cGgI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Grek.Main" />
+      <module name="a7-nad-grek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Grek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11453312-3d0b-4acf-ad7a-62cac73f23f2" name="Default Changelist" comment="" />
+      <created>1606498178249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606498178249</updated>
+      <workItem from="1606498179946" duration="10250000" />
+      <workItem from="1606757308045" duration="9359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="820" y="-876" key="#com.intellij.ide.util.MemberChooser" timestamp="1606759643838">
+      <screen x="109" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="820" y="-876" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606758300847" />
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1606502061006" />
+    <state x="820" y="-876" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606759643838" />
+    <state width="1878" height="521" key="GridCell.Tab.0.bottom" timestamp="1606808120879">
+      <screen x="109" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.0.bottom/0.0.1440.900/109.-1055.1920.1055@0.0.1440.900" timestamp="1606734962691" />
+    <state width="1878" height="521" key="GridCell.Tab.0.bottom/0.0.1440.900/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606808120879" />
+    <state width="1398" height="357" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606506988294" />
+    <state width="1878" height="416" key="GridCell.Tab.0.bottom/0.25.1440.875/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606761474112" />
+    <state width="1878" height="521" key="GridCell.Tab.0.center" timestamp="1606808120878">
+      <screen x="109" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.0.center/0.0.1440.900/109.-1055.1920.1055@0.0.1440.900" timestamp="1606734962690" />
+    <state width="1878" height="521" key="GridCell.Tab.0.center/0.0.1440.900/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606808120878" />
+    <state width="1398" height="357" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606506988293" />
+    <state width="1878" height="416" key="GridCell.Tab.0.center/0.25.1440.875/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606761474110" />
+    <state width="1878" height="521" key="GridCell.Tab.0.left" timestamp="1606808120877">
+      <screen x="109" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.0.left/0.0.1440.900/109.-1055.1920.1055@0.0.1440.900" timestamp="1606734962689" />
+    <state width="1878" height="521" key="GridCell.Tab.0.left/0.0.1440.900/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606808120877" />
+    <state width="1398" height="357" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606506988292" />
+    <state width="1878" height="416" key="GridCell.Tab.0.left/0.25.1440.875/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606761474109" />
+    <state width="1878" height="521" key="GridCell.Tab.0.right" timestamp="1606808120879">
+      <screen x="109" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.0.right/0.0.1440.900/109.-1055.1920.1055@0.0.1440.900" timestamp="1606734962690" />
+    <state width="1878" height="521" key="GridCell.Tab.0.right/0.0.1440.900/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606808120879" />
+    <state width="1398" height="357" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606506988293" />
+    <state width="1878" height="416" key="GridCell.Tab.0.right/0.25.1440.875/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606761474111" />
+    <state width="1878" height="428" key="GridCell.Tab.1.bottom" timestamp="1606807711492">
+      <screen x="109" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.1.bottom/0.0.1440.900/109.-1055.1920.1055@0.0.1440.900" timestamp="1606734962693" />
+    <state width="1878" height="428" key="GridCell.Tab.1.bottom/0.0.1440.900/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606807711492" />
+    <state width="1398" height="408" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606504838877" />
+    <state width="1878" height="515" key="GridCell.Tab.1.bottom/0.25.1440.875/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606761250168" />
+    <state width="1878" height="428" key="GridCell.Tab.1.center" timestamp="1606807711490">
+      <screen x="109" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.1.center/0.0.1440.900/109.-1055.1920.1055@0.0.1440.900" timestamp="1606734962692" />
+    <state width="1878" height="428" key="GridCell.Tab.1.center/0.0.1440.900/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606807711490" />
+    <state width="1398" height="408" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1606504838876" />
+    <state width="1878" height="515" key="GridCell.Tab.1.center/0.25.1440.875/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606761250165" />
+    <state width="1878" height="428" key="GridCell.Tab.1.left" timestamp="1606807711490">
+      <screen x="109" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.1.left/0.0.1440.900/109.-1055.1920.1055@0.0.1440.900" timestamp="1606734962692" />
+    <state width="1878" height="428" key="GridCell.Tab.1.left/0.0.1440.900/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606807711490" />
+    <state width="1398" height="408" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1606504838876" />
+    <state width="1878" height="515" key="GridCell.Tab.1.left/0.25.1440.875/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606761250163" />
+    <state width="1878" height="428" key="GridCell.Tab.1.right" timestamp="1606807711491">
+      <screen x="109" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="408" key="GridCell.Tab.1.right/0.0.1440.900/109.-1055.1920.1055@0.0.1440.900" timestamp="1606734962693" />
+    <state width="1878" height="428" key="GridCell.Tab.1.right/0.0.1440.900/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606807711491" />
+    <state width="1398" height="408" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1606504838877" />
+    <state width="1878" height="515" key="GridCell.Tab.1.right/0.25.1440.875/109.-1080.1920.1080@109.-1080.1920.1080" timestamp="1606761250166" />
+    <state x="568" y="235" key="refactoring.ChangeSignatureDialog" timestamp="1606499939063">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="568" y="235" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1606499939063" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Grek.Book" memberName="price" />
+        <PinnedItemInfo parentTag="Grek.WareList" memberName="total_price" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/a7_nad_grek$Main.ic" NAME="Main Coverage Results" MODIFIED="1606807153334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Grek.*</FILTER>
+    </SUITE>
+  </component>
+</project>
